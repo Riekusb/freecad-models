@@ -1,16 +1,88 @@
-<?xml version="1.0"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="53.03088398886609mm" height="53.031877131812884mm" viewBox="0 0 53.03088398886609 53.031877131812884" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Body" transform="translate(26.517161,26.519605) scale(1,-1)">
-<circle cx="1.5987211554602254e-14" cy="-21.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#ffff00"/>
-<path id="Body_f0001"  d="M 22.516660498395392 13.000000000000014 L 22.516660498395346 13.000000000000094 A 26 26 0 1 0 18.3848 18.3848A 26 26 0 0 0 20.806 15.5919L 20.806039452461146 15.591944147624119 A 26 26 0 0 1 18.3848 18.3848A 26 26 0 1 1 22.5167 13Z M -16.10116509880972 20.414516464047633 C -16.161483625168206 20.387974272796583 -16.645873477291364 19.976233594618613 -17.554334655179186 19.179294429513693 C -18.686153623920468 18.16122769104612 -19.86441311408484 16.802415214917314 -20.16563975613612 16.411793723592258 C -20.3605497250823 16.169526771762605 -20.442667959442964 16.067049600627037 -20.41199445921804 16.104362210185528 C -20.396418595748134 16.12841100063101 -20.236825617903296 16.324730125965615 -19.933215525683476 16.693319586189293 C -19.47418722798725 17.278980418746976 -18.032454569816885 18.800456255723404 -17.14136216910509 19.549263489645167 C -16.44056307033509 20.14404213113581 -16.093830713569982 20.43245978927 -16.101165098809712 20.414516464047637 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#ffff00;fill-opacity:1.0;fill-rule: evenodd"/>
-<path id="Body_f0002"  d="M 12.306406460551008 10.684678751731767 L 20.80603945246093 15.591944147624412 L 20.806039452461146 15.591944147624119 L 12.306406460551008 10.684678751731767 L 12.306406460551008 10.684678751731767 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#ffff00;fill-opacity:1.0;fill-rule: evenodd"/>
-<path id="Body_f0003"  d="M 12.306406460551008 10.684678751731767 L 12.306406460551008 10.684678751731767 L 13.85640646055101 8.000000000000009 L 13.85640646055101 8.000000000000009 L 12.30640646055101 10.68467875173177 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#ffff00;fill-opacity:1.0;fill-rule: evenodd"/>
-<path id="Body_f0004"  d="M 13.85640646055101 8.000000000000009 L 13.85640646055101 8.000000000000009 L 22.516660498395392 13.000000000000014 L 22.516660498395346 13.000000000000094 L 13.856406460551014 8.00000000000001 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#ffff00;fill-opacity:1.0;fill-rule: evenodd"/>
-<circle cx="1.5987211554602254e-14" cy="-21.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#ffff00"/>
-<circle cx="1.5987211554602254e-14" cy="-21.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#ffff00"/>
-<path id="Body_f0007"  d="M -8.449926035179253 12.763277400417177 M -8.449926035179253 12.763277400417177 L -8.449926035179253 12.763277400417177 L -16.10116509880972 20.414516464047633 C -16.161483625168206 20.387974272796583 -16.645873477291364 19.976233594618613 -17.554334655179186 19.179294429513693 C -18.686153623920468 18.16122769104612 -19.86441311408484 16.802415214917314 -20.16563975613612 16.411793723592258 C -20.3605497250823 16.169526771762605 -20.442667959442964 16.067049600627037 -20.41199445921804 16.104362210185528 C -20.396418595748134 16.12841100063101 -20.236825617903296 16.324730125965615 -19.933215525683476 16.693319586189293 C -19.47418722798725 17.278980418746976 -18.032454569816885 18.800456255723404 -17.14136216910509 19.549263489645167 C -16.44056307033509 20.14404213113581 -16.093830713569982 20.43245978927 -16.101165098809712 20.414516464047637 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#ffff00;fill-opacity:1.0;fill-rule: evenodd"/>
-<path id="Body_f0008"  d="M -8.449926035179253 12.763277400417177 M -8.449926035179253 12.763277400417177 L -8.449926035179253 12.763277400417177 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#ffff00;fill-opacity:1.0;fill-rule: evenodd"/>
-<title>b'kuiken'</title>
-</g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="lichaam.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0510461"
+     inkscape:cx="193.80354"
+     inkscape:cy="473.66072"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Body" /><defs
+     id="defs2" /><g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       id="Body"
+       transform="matrix(1,0,0,-1,53.079811,148.68583)"><circle
+         cx="1.5987212e-14"
+         cy="-21"
+         r="1.5"
+         stroke="#191919"
+         stroke-width="0.35 px"
+         style="fill:#ffff00;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle153" /><path
+         id="Body_f0001"
+         d="m 22.51666,13 v 0 a 26,26 0 1 0 -4.13186,5.3848 26,26 0 0 0 2.4212,-2.7929 l 3.9e-5,4.4e-5 A 26,26 0 0 1 18.3848,18.3848 26,26 0 1 1 22.5167,13 Z m -38.617825,7.414516 c -0.06032,-0.02654 -0.544708,-0.438282 -1.45317,-1.235222 -1.131819,-1.018066 -2.310078,-2.376879 -2.611305,-2.7675 -0.19491,-0.242267 -0.277028,-0.344744 -0.246354,-0.307432 0.01557,0.02405 0.175168,0.220368 0.478778,0.588958 0.459029,0.58566 1.900761,2.107136 2.791854,2.855943 0.700799,0.594779 1.047531,0.883197 1.040197,0.865253 z"
+         stroke="#191919"
+         stroke-width="0.35 px"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" /><path
+         id="Body_f0002"
+         d="m 12.306406,10.684679 8.499633,4.907265 v 0 z"
+         stroke="#191919"
+         stroke-width="0.35 px"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" /><path
+         id="Body_f0003"
+         d="m 12.306406,10.684679 v 0 L 13.856406,8 v 0 z"
+         stroke="#191919"
+         stroke-width="0.35 px"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" /><path
+         id="Body_f0004"
+         d="m 13.856406,8 v 0 l 8.660254,5 v 0 z"
+         stroke="#191919"
+         stroke-width="0.35 px"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" /><circle
+         cx="1.5987212e-14"
+         cy="-21"
+         r="1.5"
+         stroke="#191919"
+         stroke-width="0.35 px"
+         style="fill:#ffff00;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle159" /><circle
+         cx="1.5987212e-14"
+         cy="-21"
+         r="1.5"
+         stroke="#191919"
+         stroke-width="0.35 px"
+         style="fill:#ffff00;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle161" /><path
+         id="Body_f0008"
+         d="m -8.449926,12.763277 m 0,0 z"
+         stroke="#191919"
+         stroke-width="0.35 px"
+         style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" /><title
+         id="title165">b'kuiken'</title></g></g></svg>
